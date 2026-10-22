@@ -1,2 +1,2 @@
-# Power-Bi-Dashboards
+# Power-BI-Dashboards
 Power BI Dashboard Practice
