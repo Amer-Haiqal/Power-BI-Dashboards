@@ -1,7 +1,7 @@
 # Power-BI-Dashboards
 This is a Power BI dashboard practice which focuses on various aspect of Power BI for upskilling purposes
 
-#Practice #1
+# Practice_1
 ## Employee Attrition Risk Dashboard
   An interactive Power BI dashboard exploring which employee factors are linked to attrition, and how the risk changes when several factors stack up.
 ### Question
